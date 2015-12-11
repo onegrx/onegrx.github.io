@@ -1,0 +1,65 @@
+html, body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    background: #f2ca80;
+}
+
+.about h1 {
+
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-weight: 600;
+    text-shadow: 2px 2px 1px #996633
+
+}
+.about h4 {
+    text-shadow: 1px 1px 1px #996633
+
+}
+
+div.heading {
+
+    font-family: Lato, Helvetica, Arial, sans-serif;
+    text-align:center;
+    color: #754c29;
+    padding-top: 45px;
+    padding-bottom: 25px;
+}
+
+.about {
+    background: #f2ca80;
+}
+
+
+.circular img {
+    margin-top: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(117, 76, 41, 0.7);
+}
+
+nav {
+    text-align:center;
+    margin: 0;
+}
+
+nav ul li a {
+    color: #754c29;
+    font-size: 16px;
+}
+
+nav ul li:hover a:hover {
+    color: #912122;
+}
+
+nav ul li a:visited {
+    color: #754c29;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px 10px;
+}
